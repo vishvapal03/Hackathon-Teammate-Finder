@@ -1,0 +1,455 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Vishvapal Mittal",
+      "email": "vishvapal@example.com",
+      "password": "password123",
+      "college": "Indian Institute of Technology",
+      "degree": "B.Tech Computer Science",
+      "year": "3rd Year",
+      "bio": "Fullstack developer interested in building scalable web apps and AI agents. Passionate about participating in national and global hackathons.",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "Node.js",
+        "Tailwind CSS",
+        "MongoDB"
+      ],
+      "experience": "Intermediate",
+      "preferredRole": "Fullstack Developer",
+      "interests": [
+        "AI",
+        "Web Development",
+        "Open Innovation"
+      ],
+      "availability": "High (15-20 hrs/week)",
+      "github": "vishvapal03",
+      "linkedin": "vishvapal-mittal",
+      "portfolio": "https://vishvapal.dev",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=vishvapal"
+    },
+    {
+      "id": "2",
+      "name": "Sarah Connor",
+      "email": "sarah@example.com",
+      "password": "password123",
+      "college": "Stanford University",
+      "degree": "M.S. Artificial Intelligence",
+      "year": "1st Year",
+      "bio": "AI researcher and developer. Specialized in NLP, LLM prompt engineering, and deep learning pipelines. Looking for frontend collaborators.",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "FastAPI",
+        "LangChain",
+        "OpenAI API",
+        "SQL"
+      ],
+      "experience": "Advanced",
+      "preferredRole": "AI/ML Engineer",
+      "interests": [
+        "AI",
+        "Healthcare",
+        "AR/VR"
+      ],
+      "availability": "Medium (10-15 hrs/week)",
+      "github": "sarahc_ai",
+      "linkedin": "sarah-connor-ai",
+      "portfolio": "https://sarahconnor.ai",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=sarah"
+    },
+    {
+      "id": "3",
+      "name": "Alex Rivera",
+      "email": "alex@example.com",
+      "password": "password123",
+      "college": "MIT",
+      "degree": "B.S. Computer Science",
+      "year": "4th Year",
+      "bio": "Blockchain enthusiast and smart contract security auditor. Expert in Solidity and Rust. Let's build the future of decentralized finance.",
+      "skills": [
+        "Solidity",
+        "Rust",
+        "Ethereum",
+        "Web3.js",
+        "Next.js",
+        "Docker"
+      ],
+      "experience": "Advanced",
+      "preferredRole": "Blockchain Engineer",
+      "interests": [
+        "Blockchain",
+        "Cyber Security",
+        "Web Development"
+      ],
+      "availability": "High (15-20 hrs/week)",
+      "github": "alexrivera_web3",
+      "linkedin": "alex-rivera-blockchain",
+      "portfolio": "https://rivera.eth",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=alex"
+    },
+    {
+      "id": "4",
+      "name": "Emily Chen",
+      "email": "emily@example.com",
+      "password": "password123",
+      "college": "UC Berkeley",
+      "degree": "B.A. Cognitive Science",
+      "year": "2nd Year",
+      "bio": "Product designer turned frontend developer. Passionate about crafting beautiful, smooth, user-centric glassmorphic experiences.",
+      "skills": [
+        "Figma",
+        "UI/UX Design",
+        "React",
+        "Tailwind CSS",
+        "Framer Motion",
+        "CSS3"
+      ],
+      "experience": "Intermediate",
+      "preferredRole": "UI/UX Designer",
+      "interests": [
+        "Web Development",
+        "AR/VR",
+        "Open Innovation"
+      ],
+      "availability": "Medium (10-15 hrs/week)",
+      "github": "emily_design",
+      "linkedin": "emily-chen-ux",
+      "portfolio": "https://emilychen.design",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=emily"
+    },
+    {
+      "id": "5",
+      "name": "Marcus Vance",
+      "email": "marcus@example.com",
+      "password": "password123",
+      "college": "Georgia Tech",
+      "degree": "B.S. Computer Engineering",
+      "year": "3rd Year",
+      "bio": "DevOps enthusiast and backend engineer. Specialized in distributed databases, scale pipelines, and server management.",
+      "skills": [
+        "Go",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "experience": "Intermediate",
+      "preferredRole": "Backend Developer",
+      "interests": [
+        "Web Development",
+        "IoT",
+        "Cyber Security"
+      ],
+      "availability": "Medium (10-15 hrs/week)",
+      "github": "marcus_devops",
+      "linkedin": "marcus-vance-ops",
+      "portfolio": "https://marcusv.dev",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=marcus"
+    },
+    {
+      "name": "VISHVA",
+      "email": "FJSDNFJ@GMAIL.COM",
+      "password": "9301883017",
+      "college": "LNCT",
+      "degree": "",
+      "year": "1st Year",
+      "bio": "",
+      "skills": [],
+      "experience": "Intermediate",
+      "preferredRole": "Developer",
+      "interests": [],
+      "availability": "Medium (10-15 hrs/week)",
+      "github": "VISHVA17",
+      "linkedin": "",
+      "portfolio": "",
+      "id": "6",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=VISHVA"
+    }
+  ],
+  "hackathons": [
+    {
+      "id": "h1",
+      "name": "GenAI Buildathon 2026",
+      "organizer": "OpenAI & Microsoft",
+      "banner": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+      "registrationDeadline": "2026-07-10",
+      "eventDate": "2026-07-15 to 2026-07-18",
+      "type": "Online",
+      "prizePool": "$50,000",
+      "minTeamSize": 2,
+      "maxTeamSize": 4,
+      "domain": "AI",
+      "difficulty": "Intermediate",
+      "problemStatements": [
+        {
+          "id": "p1_1",
+          "title": "AI-Powered Education Assistant",
+          "description": "Develop an intelligent teaching assistant that analyzes student performance in real-time, recommends personalized micro-lessons, and answers concepts dynamically using rag structures.",
+          "summary": "An adaptive LLM teaching copilot parsing student learning graphs to optimize custom content delivery.",
+          "difficulty": "Medium",
+          "estimatedTime": "36 hours",
+          "requiredSkills": [
+            "React",
+            "Python",
+            "LangChain",
+            "OpenAI API",
+            "FastAPI"
+          ],
+          "recommendedStack": [
+            "Next.js",
+            "FastAPI",
+            "VectorDB (Pinecone)",
+            "LlamaIndex"
+          ],
+          "roles": [
+            "Frontend Dev",
+            "AI/ML Engineer",
+            "Backend Dev"
+          ],
+          "roadmap": [
+            "Setup Next.js dashboard template and FastAPI router backend",
+            "Index reference syllabus and textbook documents in Pinecone vector store",
+            "Build context retrievers with LangChain and construct custom system prompt chats",
+            "Wire charts visualizing student progress analytics and package the system for demo"
+          ],
+          "resources": [
+            "LangChain Retrieval Docs (https://python.langchain.com)",
+            "OpenAI API Key Guides (https://platform.openai.com)",
+            "Pinecone Vector Database Guides (https://pinecone.io)"
+          ],
+          "deliverables": [
+            "Fully functional dynamic learning dashboard repository link",
+            "Deployed backend endpoints serving real-time prompt generation",
+            "Pitch Deck PDF & 3-minute demo video outlining architecture"
+          ],
+          "innovationTips": "Incorporate audio-to-text inputs so children can voice questions directly, making the tool much more accessible.",
+          "challenges": "Hallucinations in complex subjects and high API response latency under heavy load.",
+          "ideas": [
+            "EduQuest AI - An RPG game where answers unlock steps in a learning adventure",
+            "SyllabusSift - A browser extension synthesizing study guides from PDF slides"
+          ]
+        },
+        {
+          "id": "p1_2",
+          "title": "Automated Legal Document Analyzer",
+          "description": "Create a secure web app that audits uploaded lease agreements, identifies hidden liability clauses, and outlines potential warnings automatically.",
+          "summary": "A contract risk analysis engine scanning document texts for red flags, non-competes, and liabilities.",
+          "difficulty": "Hard",
+          "estimatedTime": "48 hours",
+          "requiredSkills": [
+            "Python",
+            "FastAPI",
+            "NLP",
+            "Tailwind CSS",
+            "React"
+          ],
+          "recommendedStack": [
+            "React",
+            "Python (NLTK/SpaCy)",
+            "FastAPI",
+            "Docker"
+          ],
+          "roles": [
+            "AI Developer",
+            "Fullstack Developer",
+            "Legal Domain Advisor"
+          ],
+          "roadmap": [
+            "Create document upload portal and configure PDF-to-text parser",
+            "Design heuristic parsing rule sets and fine-tuned LLM classifier models",
+            "Construct glassmorphism summary report cards detailing detected clauses",
+            "Add high-contrast risk level badges and exportable clean reports"
+          ],
+          "resources": [
+            "SpaCy Industrial NLP Guides (https://spacy.io)",
+            "FastAPI File Uploading documentation (https://fastapi.tiangolo.com)"
+          ],
+          "deliverables": [
+            "Code repository link containing the audit server",
+            "A web portal showing interactive risk cards side-by-side with document text"
+          ],
+          "innovationTips": "Highlight precise sentences in the contract viewer using matching risk color codes (yellow for caution, red for warning).",
+          "challenges": "Parsing scanned image PDFs accurately, and handling long dense contracts exceeding standard token contexts.",
+          "ideas": [
+            "LeaseGuard - A quick scan utility for students renting college rooms",
+            "NDA-Sifter - A tool specifically optimized for parsing commercial NDAs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h2",
+      "name": "Web3 Future Hack",
+      "organizer": "Ethereum Foundation",
+      "banner": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "registrationDeadline": "2026-08-05",
+      "eventDate": "2026-08-10 to 2026-08-15",
+      "type": "Hybrid",
+      "prizePool": "$100,000",
+      "minTeamSize": 2,
+      "maxTeamSize": 5,
+      "domain": "Blockchain",
+      "difficulty": "Hard",
+      "problemStatements": [
+        {
+          "id": "p2_1",
+          "title": "Cross-chain DeFi Yield Aggregator",
+          "description": "Design a smart contract suite and frontend dashboard that dynamically shifts client tokens across different protocol layers to lock in top yields, accounting for gas price metrics.",
+          "summary": "Gas-aware cross-chain capital allocation vaults utilizing smart liquidity sweeps.",
+          "difficulty": "Hard",
+          "estimatedTime": "72 hours",
+          "requiredSkills": [
+            "Solidity",
+            "Rust",
+            "Ethereum",
+            "Next.js",
+            "Web3.js"
+          ],
+          "recommendedStack": [
+            "Solidity (Foundry)",
+            "Next.js (Vercel)",
+            "Ethers.js",
+            "Wagmi"
+          ],
+          "roles": [
+            "Smart Contract Dev",
+            "Frontend Dev",
+            "DeFi Strategist"
+          ],
+          "roadmap": [
+            "Write Foundry test suite verifying yield yield rates across mock protocols",
+            "Implement main routing vault smart contracts with gas optimization tricks",
+            "Create responsive dashboard showing APYs, pool allocations, and deposit states",
+            "Integrate wallet connections (WalletConnect/RainbowKit) and run transaction test routes"
+          ],
+          "resources": [
+            "Foundry Book (https://book.getfoundry.sh)",
+            "Wagmi React Hooks (https://wagmi.sh)"
+          ],
+          "deliverables": [
+            "Verified smart contract addresses on Sepolia testnet",
+            "GitHub repository including smart contract tests and dashboard layout"
+          ],
+          "innovationTips": "Add one-click auto-compounding features so that yields are re-deposited without requiring manual transaction triggers.",
+          "challenges": "High gas fee variability and transient slippage issues during chain rebalances.",
+          "ideas": [
+            "YieldVault AI - A neural network model predicting future interest rate drops",
+            "SweepDeFi - A gas optimized aggregator routing assets across Arbitrum and Optimism"
+          ]
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": "t1",
+      "name": "Prompt Engineers",
+      "hackathonId": "h1",
+      "problemStatementId": "p1_1",
+      "idea": "An interactive classroom chatbot resembling a character RPG to help young kids study computer science concepts with story rewards.",
+      "requiredSkills": [
+        "React",
+        "Node.js",
+        "LangChain"
+      ],
+      "missingRoles": [
+        "Fullstack Developer"
+      ],
+      "members": [
+        {
+          "id": "2",
+          "name": "Sarah Connor",
+          "role": "AI/ML Engineer",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=sarah"
+        },
+        {
+          "id": "4",
+          "name": "Emily Chen",
+          "role": "UI/UX Designer",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=emily"
+        }
+      ],
+      "aiScore": 88
+    },
+    {
+      "id": "t2",
+      "name": "DeFi Wizards",
+      "hackathonId": "h2",
+      "problemStatementId": "p2_1",
+      "idea": "A streamlined mobile interface for routing liquidity using intent-based solvers.",
+      "requiredSkills": [
+        "React",
+        "Rust",
+        "Solidity"
+      ],
+      "missingRoles": [
+        "Frontend Developer",
+        "Rust Engineer"
+      ],
+      "members": [
+        {
+          "id": "3",
+          "name": "Alex Rivera",
+          "role": "Blockchain Engineer",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=alex"
+        }
+      ],
+      "aiScore": 75
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "chatId": "1_2",
+      "senderId": "2",
+      "receiverId": "1",
+      "content": "Hey Vishvapal! I saw your profile and noticed you have great React and Node.js skills. Would you be interested in joining our team 'Prompt Engineers' for the OpenAI GenAI Buildathon?",
+      "timestamp": "2026-06-28T10:30:00Z"
+    },
+    {
+      "id": "m2",
+      "chatId": "1_2",
+      "senderId": "1",
+      "receiverId": "2",
+      "content": "Hi Sarah! Yes, I'd love to check it out. The educational assistant project sounds super exciting! I have built some chat layouts and API integrations in Next.js before.",
+      "timestamp": "2026-06-28T10:45:00Z"
+    },
+    {
+      "id": "m3",
+      "chatId": "1_2",
+      "senderId": "2",
+      "receiverId": "1",
+      "content": "Awesome! I've already set up the vector database and standard API triggers. We just need to build a premium dashboard and polish the student prompt interface.",
+      "timestamp": "2026-06-28T11:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n1",
+      "userId": "1",
+      "type": "team_invitation",
+      "title": "Team Invitation Received",
+      "message": "Sarah Connor invited you to join 'Prompt Engineers'",
+      "senderName": "Sarah Connor",
+      "teamId": "t1",
+      "timestamp": "2026-06-28T10:30:00Z",
+      "read": false
+    },
+    {
+      "id": "n2",
+      "userId": "1",
+      "type": "ai_recommendation",
+      "title": "AI Match Alert",
+      "message": "We found a 94% compatibility match for the Web3 Future Hack with Alex Rivera.",
+      "senderName": "System",
+      "teamId": "t2",
+      "timestamp": "2026-06-28T12:00:00Z",
+      "read": false
+    }
+  ]
+}
