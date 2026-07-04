@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Vishvapal Mittal",
       "email": "vishvapal@example.com",
-      "password": "password123",
+      "password": "$2b$10$Uur34wKSByEOEvxkqZxBKerE.5QWXbgi/Wzfw5qHGC1Aq/0k7XOee",
       "college": "Indian Institute of Technology",
       "degree": "B.Tech Computer Science",
       "year": "3rd Year",
@@ -34,7 +34,7 @@
       "id": "2",
       "name": "Sarah Connor",
       "email": "sarah@example.com",
-      "password": "password123",
+      "password": "$2b$10$RholLqpaYi4mU0jWl2k5k.FF6RoiDDjw2w3zAvEQuI5yX6950qhWC",
       "college": "Stanford University",
       "degree": "M.S. Artificial Intelligence",
       "year": "1st Year",
@@ -64,7 +64,7 @@
       "id": "3",
       "name": "Alex Rivera",
       "email": "alex@example.com",
-      "password": "password123",
+      "password": "$2b$10$68NsVqe0wGJPgFh6eVCaZ./K.hZc7ZDK.jckwqK4x/KWFmKOMqtpe",
       "college": "MIT",
       "degree": "B.S. Computer Science",
       "year": "4th Year",
@@ -94,7 +94,7 @@
       "id": "4",
       "name": "Emily Chen",
       "email": "emily@example.com",
-      "password": "password123",
+      "password": "$2b$10$AzyLNorjP3sTlbgAtSLNHOE5G9ragEYGiiZ9gztUVwPhnhdexsJ7O",
       "college": "UC Berkeley",
       "degree": "B.A. Cognitive Science",
       "year": "2nd Year",
@@ -124,7 +124,7 @@
       "id": "5",
       "name": "Marcus Vance",
       "email": "marcus@example.com",
-      "password": "password123",
+      "password": "$2b$10$Ez.sXzyD5YIFjLBjo1EUGukvHKXlI9E.yaU9mjD7//vvkdHA/6z6G",
       "college": "Georgia Tech",
       "degree": "B.S. Computer Engineering",
       "year": "3rd Year",
@@ -154,7 +154,7 @@
     {
       "name": "VISHVA",
       "email": "FJSDNFJ@GMAIL.COM",
-      "password": "9301883017",
+      "password": "$2b$10$1ocH0HJG0KhQm3sD.nAwa.s/D1cFg5CNhQ8MiIG9CZGuUEHsyhuhm",
       "college": "LNCT",
       "degree": "",
       "year": "1st Year",
@@ -169,6 +169,25 @@
       "portfolio": "",
       "id": "6",
       "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=VISHVA"
+    },
+    {
+      "name": "vansh",
+      "email": "vanshrajsinghchp@gmail.com",
+      "password": "$2b$10$yLKYSLyH5crjgp2.DAq3wOyDPNbDdjpM2wactAf1tDbv/mBsf7zX6",
+      "college": "LNCT",
+      "degree": "",
+      "year": "1st Year",
+      "bio": "",
+      "skills": [],
+      "experience": "Intermediate",
+      "preferredRole": "Developer",
+      "interests": [],
+      "availability": "Medium (10-15 hrs/week)",
+      "github": "AmateurCode1",
+      "linkedin": "",
+      "portfolio": "",
+      "id": "7",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=vansh"
     }
   ],
   "hackathons": [
@@ -357,9 +376,7 @@
         "Node.js",
         "LangChain"
       ],
-      "missingRoles": [
-        "Fullstack Developer"
-      ],
+      "missingRoles": [],
       "members": [
         {
           "id": "2",
@@ -374,7 +391,7 @@
           "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=emily"
         }
       ],
-      "aiScore": 88
+      "aiScore": 87
     },
     {
       "id": "t2",
@@ -400,6 +417,32 @@
         }
       ],
       "aiScore": 75
+    },
+    {
+      "name": "alsdkf",
+      "hackathonId": "h1",
+      "problemStatementId": "",
+      "idea": "to build ",
+      "requiredSkills": [
+        "reach",
+        "python",
+        "java",
+        "cpp"
+      ],
+      "missingRoles": [
+        "backend",
+        "product manager"
+      ],
+      "members": [
+        {
+          "id": "1",
+          "name": "Vishvapal Mittal",
+          "role": "Fullstack Developer",
+          "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=vishvapal"
+        }
+      ],
+      "id": "t3",
+      "aiScore": 81
     }
   ],
   "messages": [
@@ -438,7 +481,7 @@
       "senderName": "Sarah Connor",
       "teamId": "t1",
       "timestamp": "2026-06-28T10:30:00Z",
-      "read": false
+      "read": true
     },
     {
       "id": "n2",
@@ -449,6 +492,17 @@
       "senderName": "System",
       "teamId": "t2",
       "timestamp": "2026-06-28T12:00:00Z",
+      "read": true
+    },
+    {
+      "userId": "3",
+      "type": "team_invitation",
+      "title": "Team Invitation",
+      "message": "Vishvapal Mittal invited you to join team 'alsdkf'",
+      "senderName": "Vishvapal Mittal",
+      "teamId": "t3",
+      "id": "n3",
+      "timestamp": "2026-07-04T05:59:26.321Z",
       "read": false
     }
   ]
